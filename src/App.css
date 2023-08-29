@@ -1,0 +1,9 @@
+section,
+hr {
+  margin: 10px;
+}
+
+ul {
+  margin: 1rem;
+  display: flex;
+}
